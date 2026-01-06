@@ -1,0 +1,65 @@
+---
+---
+/* ========== 页面正文字体大小与样式覆盖 ========== */
+
+/* 1) 设定根字体大小（便于用 rem 做比例缩放） */
+html {
+  /* 默认 16px；改为 18px 会让整体放大 */
+  font-size: 20px;
+}
+
+/* 2) 针对内容区域（常见选择器：.post, .entry-content, .content, .page, .post-content）
+   如果主题使用其它类名，请根据 DevTools 查到的类名替换下面的选择器 */
+.post,
+.entry-content,
+.post-content,
+.page,
+.content,
+.article,
+main {
+  font-size: 1rem;         /* = html font-size (16px) */
+  line-height: 1.6;
+  color: #222;
+}
+
+/* 段落与列表 */
+.post p,
+.entry-content p,
+.post-content p,
+.content p {
+  margin-bottom: 1.25rem;
+  font-size: inherit;
+}
+
+/* 标题按比例调整 */
+.post h1, .entry-content h1, .post-content h1 { font-size: 2rem; }   /* ~32px */
+.post h2, .entry-content h2, .post-content h2 { font-size: 1.6rem; } /* ~25.6px */
+.post h3, .entry-content h3, .post-content h3 { font-size: 1.25rem; }/* ~20px */
+.post h4, .entry-content h4, .post-content h4 { font-size: 1.125rem; }/* ~18px */
+
+/* 代码与引用等元素，保持可读性 */
+.post pre,
+.entry-content pre,
+.post-content pre,
+.post code,
+.entry-content code,
+.post-content code {
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+/* 响应式：在小屏幕上适当减小根字体 */
+@media (max-width: 768px) {
+  html { font-size: 15px; } /* 或 14px，根据需要调整 */
+}
+
+/* 可选：提供用户可切换的类（在页面 JS 中切换 body 的类以实现字体放大/缩小） */
+body.font-small  { font-size: 14px; } /* html 的基准也会被覆盖，可用于“阅读模式”切换 */
+body.font-large  { font-size: 18px; }
+
+/* 如果主题的选择器非常具体，可能需要更高优先级；临时可用 !important 以确认生效 */
+.post,
+.entry-content,
+.post-content {
+  /* font-size: 1rem !important; */
+}
