@@ -19,7 +19,7 @@ html {
 main {
   font-size: 2rem;         /* = html font-size (16px) */
   line-height: 1.6;
-  color: #999;
+  color: #111;
 }
 
 /* 段落与列表 */
@@ -55,7 +55,7 @@ main {
 
 /* 可选：提供用户可切换的类（在页面 JS 中切换 body 的类以实现字体放大/缩小） */
 body.font-small  { font-size: 14px; } /* html 的基准也会被覆盖，可用于“阅读模式”切换 */
-body.font-large  { font-size: 18px; }
+body.font-large  { font-size: 24px; }
 
 /* 如果主题的选择器非常具体，可能需要更高优先级；临时可用 !important 以确认生效 */
 .post,
