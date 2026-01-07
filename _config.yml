@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "谭谞 / Xu Tan"
 title_separator          : "-"
 name                     : &name "谭谞"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "谭谞"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Hangzhou"
   employer         : "浙江科技大学"
   uri              : # URL
