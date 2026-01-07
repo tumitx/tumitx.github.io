@@ -12,7 +12,7 @@ redirect_from:
 
 :email: tanxu@zust.edu.cn
 
-# 学习和工作经历
+## 学习和工作经历
 
 本科：浙江大学竺可桢学院混合班/计算机科学与技术专业；
 
@@ -26,13 +26,13 @@ redirect_from:
 
 创业经历：杭州观图科技有限公司、杭州米数科技有限公司
 
-# 在研科研项目
+## 在研科研项目
 
 国家自然科学基金青年项目，面向食品包装视觉缺陷检测的关键技术及应用研究，主持，2025.1.-2027.12
 
 横向项目（重大），人工智能技术在制造业的深度应用技术开发，主持，2024.12.-2027.12.
 
-# 教学工作
+## 教学工作
 
 主讲《人工智能导论》，计算机专业本科生大二课程；
 
@@ -44,7 +44,7 @@ redirect_from:
 
 指导学生“浙江省大学生创新训练计划”立项，2025；
 
-# 发表论文
+## 发表论文
 
 **Xu Tan**; Haidong Gao; Yang Yu. Multi-view clustering with privileged information based on probabilistic tensor factorization[J]. Knowledge-Based Systems, 2025: 114356.
 
@@ -68,7 +68,7 @@ Fei Wu; **Xu Tan**; Yi Yang; Dacheng Tao; Siliang Tang; Yueting Zhuang. Supervis
 
 胡馨月, 梁秀波, 樊儒昆, **谭谞**, 耿卫东: 基于运动传感的书空临摹交互方式. 计算机辅助设计与图形学报, 2010. 
 
-# 授权专利
+## 授权发明专利
 
 **谭谞**, 基于文字检测的表格图像结构化信息提取与分析方法和装置, 2023-6-16, 中国, 2023107168290
 
