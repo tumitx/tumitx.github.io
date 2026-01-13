@@ -46,6 +46,8 @@ redirect_from:
 
 ## 发表论文
 
+Ang Li, SHI Yufei, Yuxuan Si, Yiquan Wu, Ming Cai, **Xu Tan**, Yi Wang, Changlong Sun, Xiaozhong Liu, Kun Kuang. Think Then Rewrite: Reasoning Enhanced Query Rewriting for Domain Specific Retrieval, **AAAI**, 2026.
+
 **Xu Tan**; Haidong Gao; Yang Yu. Multi-view clustering with privileged information based on probabilistic tensor factorization[J]. Knowledge-Based Systems, 2025: 114356.
 
 Yang Yu; Haixia Wang; **Xu Tan**; Yilong Zhang; Peng Chen; Ronghua Liang. A Fingerprint Quality Driven Transformer-CNN Hybrid Model for External and Internal Fingerprint Fusion[J]. IEEE Transactions on Information Forensics and Security, 2025.
