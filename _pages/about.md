@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-谭谞，博士，研究生导师，浙江科技大学计算机科学与技术学院，团队负责人[梁荣华](https://itee.zust.edu.cn/info/1063/5998.htm?_blank)教授；主要研究方向包括工业缺陷检测、多媒体分析、计算机视觉、文字识别等。
+谭谞，博士，研究生导师，浙江科技大学计算机科学与技术学院，团队负责人[梁荣华](https://itee.zust.edu.cn/info/1063/5998.htm)教授；主要研究方向包括工业缺陷检测、多媒体分析、计算机视觉、文字识别等。
 
 :smile: 团队招收电子信息专业研究生，尤其欢迎有机器学习背景和基础的同学，期待热爱科学、勇于探索的小伙伴加入！
 
@@ -16,7 +16,7 @@ redirect_from:
 
 本科：浙江大学竺可桢学院混合班/计算机科学与技术专业；
 
-博士：浙江大学计算机科学与技术学院，导师[庄越挺](https://person.zju.edu.cn/yzhuang?_blank)教授、[吴飞](https://person.zju.edu.cn/wufei?_blank)教授；
+博士：浙江大学计算机科学与技术学院，导师[庄越挺](https://person.zju.edu.cn/yzhuang)教授、[吴飞](https://person.zju.edu.cn/wufei)教授；
 
 访问学生：美国北卡州立大学；
 
@@ -46,7 +46,23 @@ redirect_from:
 
 ## 发表论文
 
-**Xu Tan**; Haidong Gao; Yang Yu. Multi-view clustering with privileged information based on probabilistic tensor factorization[J]. Knowledge-Based Systems, 2025: 114356.
+**Xu Tan**; Haidong Gao; Yang Yu. Multi-view clustering with privileged information based on probabilistic tensor factorization[J]. Knowledge-Based Systems, 2025: 114356. 
+<details>
+
+<summary>bibtex
+```@article{TAN2025114356,
+title = {Multi-view clustering with privileged information based on probabilistic tensor factorization},
+journal = {Knowledge-Based Systems},
+volume = {329},
+pages = {114356},
+year = {2025},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2025.114356},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705125013954},
+author = {Xu Tan and Haidong Gao and Yang Yu},}
+```
+
+</details>
 
 Yang Yu; Haixia Wang; **Xu Tan**; Yilong Zhang; Peng Chen; Ronghua Liang. A Fingerprint Quality Driven Transformer-CNN Hybrid Model for External and Internal Fingerprint Fusion[J]. IEEE Transactions on Information Forensics and Security, 2025.
 
