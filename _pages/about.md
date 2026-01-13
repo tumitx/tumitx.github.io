@@ -46,8 +46,13 @@ redirect_from:
 
 ## 发表论文
 
+<details>
   
-**Xu Tan**; Haidong Gao; Yang Yu. Multi-view clustering with privileged information based on probabilistic tensor factorization[J]. Knowledge-Based Systems, 2025: 114356.<details>
+<summary>
+
+**Xu Tan**; Haidong Gao; Yang Yu. Multi-view clustering with privileged information based on probabilistic tensor factorization[J]. Knowledge-Based Systems, 2025: 114356.
+</summary>
+
 ```
 @article{TAN2025114356,
 title = {Multi-view clustering with privileged information based on probabilistic tensor factorization},
