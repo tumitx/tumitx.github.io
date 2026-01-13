@@ -46,13 +46,8 @@ redirect_from:
 
 ## 发表论文
 
-<details>
-  
-<summary>
-
 **Xu Tan**; Haidong Gao; Yang Yu. Multi-view clustering with privileged information based on probabilistic tensor factorization[J]. Knowledge-Based Systems, 2025: 114356.
-</summary>
-<br/>
+<details>
 
 ```
 @article{TAN2025114356,
@@ -64,9 +59,9 @@ year = {2025},
 issn = {0950-7051},
 doi = {https://doi.org/10.1016/j.knosys.2025.114356},
 url = {https://www.sciencedirect.com/science/article/pii/S0950705125013954},
-author = {Xu Tan and Haidong Gao and Yang Yu},}
+author = {Xu Tan and Haidong Gao and Yang Yu},
+}
 ```
-
 </details>
 
 Yang Yu; Haixia Wang; **Xu Tan**; Yilong Zhang; Peng Chen; Ronghua Liang. A Fingerprint Quality Driven Transformer-CNN Hybrid Model for External and Internal Fingerprint Fusion[J]. IEEE Transactions on Information Forensics and Security, 2025.
