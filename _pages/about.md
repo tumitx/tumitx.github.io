@@ -47,6 +47,8 @@ tanxu@zust.edu.cn
 
 ## 发表论文
 
+Jing Zou（本科生）,**Xu Tan**, Junji Mao,et al . Defect Detection Method Based on Hierarchical Microscopic Feature Modeling and Simulation[J]. Journal of System Simulation, 2026, 38(1): 1-13.
+
 Ang Li, SHI Yufei, Yuxuan Si, Yiquan Wu, Ming Cai, **Xu Tan**, Yi Wang, Changlong Sun, Xiaozhong Liu, Kun Kuang. Think Then Rewrite: Reasoning Enhanced Query Rewriting for Domain Specific Retrieval, **AAAI**, 2026.
 
 **Xu Tan**; Haidong Gao; Yang Yu. Multi-view clustering with privileged information based on probabilistic tensor factorization[J]. Knowledge-Based Systems, 2025: 114356.
