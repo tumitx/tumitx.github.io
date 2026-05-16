@@ -51,27 +51,31 @@ tanxu@zust.edu.cn
 
 ## 发表论文
 
+**Xu Tan**, Chaohui Chen, Haidong Gao, Yang Yu, Ronghua Liang. RoCA: Robust Contrastive Adaptation for unsupervised anomaly detection. Pattern Recognition(**PR**), Volume 179, Part D, 2026, 113843, doi: 10.1016/j.patcog.2026.113843. (一区top, CCF B)
+
+Tong Li, Guodao Sun, Xueqian Zheng, Qi Jiang, Wang Xia, **Xu Tan**, Haidong Gao, Haixia Wang. CompoVis: Is Cross-Modal Semantic Alignment of CLIP Optimal? A Visual Analysis Attempt. IEEE Transactions on Multimedia(**TMM**), vol. 28, pp. 3471-3486, 2026, doi: 10.1109/TMM.2026.3660158. (一区top, CCF A)
+
 Jing Zou（本科生）,**Xu Tan**, Junji Mao,et al . Defect Detection Method Based on Hierarchical Microscopic Feature Modeling and Simulation[J]. Journal of System Simulation, 2026, 38(1): 1-13.
 
-Ang Li, SHI Yufei, Yuxuan Si, Yiquan Wu, Ming Cai, **Xu Tan**, Yi Wang, Changlong Sun, Xiaozhong Liu, Kun Kuang. Think Then Rewrite: Reasoning Enhanced Query Rewriting for Domain Specific Retrieval, **AAAI**, 2026.
+Ang Li, SHI Yufei, Yuxuan Si, Yiquan Wu, Ming Cai, **Xu Tan**, Yi Wang, Changlong Sun, Xiaozhong Liu, Kun Kuang. Think Then Rewrite: Reasoning Enhanced Query Rewriting for Domain Specific Retrieval, **AAAI**, 2026. (CCF A)
 
-**Xu Tan**; Haidong Gao; Yang Yu. Multi-view clustering with privileged information based on probabilistic tensor factorization[J]. Knowledge-Based Systems, 2025: 114356.
+**Xu Tan**; Haidong Gao; Yang Yu. Multi-view clustering with privileged information based on probabilistic tensor factorization[J]. Knowledge-Based Systems, 2025: 114356. (一区top, CCF C)
 
-Yang Yu; Haixia Wang; **Xu Tan**; Yilong Zhang; Peng Chen; Ronghua Liang. A Fingerprint Quality Driven Transformer-CNN Hybrid Model for External and Internal Fingerprint Fusion[J]. IEEE Transactions on Information Forensics and Security, 2025.
+Yang Yu; Haixia Wang; **Xu Tan**; Yilong Zhang; Peng Chen; Ronghua Liang. A Fingerprint Quality Driven Transformer-CNN Hybrid Model for External and Internal Fingerprint Fusion[J]. IEEE Transactions on Information Forensics and Security, 2025. (一区top, CCF A)
 
-Deshang Peng; Jin Cheng; **Xu Tan**; Zhenyu Liu; Jianrong Tan; Feifan Ji. Robust design optimization of engineering structures with random field uncertainties based on a Kriging-assisted parallel active learning strategy (KA-PALS)[J]. Computer Methods in Applied Mechanics and Engineering, 2025, 446: 118255.
+Deshang Peng; Jin Cheng; **Xu Tan**; Zhenyu Liu; Jianrong Tan; Feifan Ji. Robust design optimization of engineering structures with random field uncertainties based on a Kriging-assisted parallel active learning strategy (KA-PALS)[J]. Computer Methods in Applied Mechanics and Engineering, 2025, 446: 118255. (一区top)
 
 Wang Xia; Tianci Wang; Jiawei Li; Guodao Sun; Haidong Gao; **Xu Tan**; Ronghua Liang. Enhancing Visual Analysis in Person Re-Identification With Vision-Language Models[J]. IEEE Computer Graphics and Applications, 2025.
 
-Hui Wang; Hanbin Zhao; Xi Li; **Xu Tan**. 2018. Progressive blockwise knowledge distillation for neural network acceleration. In Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI'18). AAAI Press, 2769–2775.
+Hui Wang; Hanbin Zhao; Xi Li; **Xu Tan**. 2018. Progressive blockwise knowledge distillation for neural network acceleration. In Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI'18). AAAI Press, 2769–2775. (CCF A)
 
 **Xu Tan**, Zhenyu Liu, Guifang Duan. Supervised Bayesian Tensor Factorization for Multi-relational Data in Product Design[C]//International Conference on Mechanical Design. Singapore: Springer Singapore, 2017: 1687-1698.
 
-**Xu Tan**; Fei Wu; Xi Li; Siliang Tang; Weiming Lu; Yueting Zhuang. Structured visual feature learning for classification via supervised probabilistic tensor factorization[J]. IEEE Transactions on Multimedia, 2015, 17(5): 660-673.
+**Xu Tan**; Fei Wu; Xi Li; Siliang Tang; Weiming Lu; Yueting Zhuang. Structured visual feature learning for classification via supervised probabilistic tensor factorization[J]. IEEE Transactions on Multimedia, 2015, 17(5): 660-673. (一区top，CCF A)
 
 **Xu Tan**; Yin Zhang; Siliang Tang; Jian Shao; Fei Wu; Yueting Zhuang. Logistic tensor regression for classification[C]//International Conference on Intelligent Science and Intelligent Data Engineering. Berlin, Heidelberg: Springer Berlin Heidelberg, 2012: 573-581.
 
-Fei Wu; **Xu Tan**; Yi Yang; Dacheng Tao; Siliang Tang; Yueting Zhuang. Supervised nonnegative tensor factorization with maximum-margin constraint[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2013, 27(1): 962-968.
+Fei Wu; **Xu Tan**; Yi Yang; Dacheng Tao; Siliang Tang; Yueting Zhuang. Supervised nonnegative tensor factorization with maximum-margin constraint[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2013, 27(1): 962-968. (CCF A)
 
 **Xu Tan**; Shuai Ma; Jian Shao; Yueting Zhuang; Fei Wu. Nonnegative Matrix Factorization for Multimodality Data from Multi-source Domain[C]//2012 Eighth International Conference on Intelligent Information Hiding and Multimedia Signal Processing. IEEE, 2012: 335-338.
 
